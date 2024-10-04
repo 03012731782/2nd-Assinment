@@ -81,6 +81,7 @@ img {
 }
 button {
     border-style:none;
+border-radius: 20px;
 }
 
 .button:hover{
